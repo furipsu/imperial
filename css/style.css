@@ -114,11 +114,12 @@
    }
 
     @media (max-width: 768px) {
-    .menu-main{
+    #navegacion{
     height: auto;
     border-bottom: 0px;
     display: block;
     }
+     }
    
    .justificada{
     text-align: justify;
