@@ -112,6 +112,13 @@
     color: rgb(67, 84, 87);
     font-size: 12pt;
    }
+
+    @media (max-width: 768px) {
+    .menu-main{
+    height: auto;
+    border-bottom: 0px;
+    display: block;
+    }
    
    .justificada{
     text-align: justify;
